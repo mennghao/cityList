@@ -1,0 +1,38 @@
+{
+  "name": "cityList",
+  "version": "1.0.0",
+  "description": "一个城市列表组件，适用于移动端页面，Vue+webpack",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "css-loader": "^0.15.6",
+    "gulp": "^3.9.0",
+    "html-loader": "^0.3.0",
+    "style-loader": "^0.12.3",
+    "vue-loader": "^2.1.1"
+  },
+  "devDependencies": {
+    "file-loader": "^0.8.4",
+    "gulp": "^3.9.0",
+    "gulp-webpack": "^1.5.0",
+    "json-loader": "^0.5.2",
+    "less-loader": "^2.2.0",
+    "url-loader": "^0.5.6",
+    "vinyl-named": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "citylist"
+  ],
+  "author": "Raito_MH",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mennghao/cityList.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mennghao/cityList/issues"
+  },
+  "homepage": "https://github.com/mennghao/cityList"
+}
